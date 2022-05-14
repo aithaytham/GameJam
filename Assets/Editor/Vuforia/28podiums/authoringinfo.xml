@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="8.6.7">
+<ModelTarget name="28podiums" targetId="272136ac46b345848c1ea6af9b3fb121" version="11.1" toolVersion="8.6.7" bbox="-1.025001 -0.040000 -1.025000 1.025001 1.448906 0.125000" previewImage="272136ac46b345848c1ea6af9b3fb121_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="28podiumss_assembly" assemblyId="eef988cd877a4451a43eb91aca7abfd6">
+<Part name="28podiums" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.171176 0.501062 3.97534" rotation="AD: -0.8481258921102415 -0.5663806735297513 2.737684362864617 173.126" image="28podiums_viewpoint_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

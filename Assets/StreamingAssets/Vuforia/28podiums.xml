@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="28podiums" motionHint="static"/>
+
+</Tracking>
+
+<Assembly name="28podiumss_assembly" assemblyId="eef988cd877a4451a43eb91aca7abfd6">
+<Part name="28podiums" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.171176 0.501062 3.97534" rotation="AD: -0.8481258921102415 -0.5663806735297513 2.737684362864617 173.126" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
